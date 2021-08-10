@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AEllington-GameDesigner
+- 👀 I’m interested in designing games.
+- 🌱 I’m currently learning python, C#, java and C++.
+- 📫 How to reach me at aliciaellington92@gmail.com
